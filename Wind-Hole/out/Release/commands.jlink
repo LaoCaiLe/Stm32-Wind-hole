@@ -1,0 +1,6 @@
+r
+halt
+loadfile "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\out\Release\Wind-Hole.hex"
+r
+go
+exit

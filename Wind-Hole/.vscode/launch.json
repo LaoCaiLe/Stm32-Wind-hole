@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "cwd": "${workspaceRoot}",
+            "type": "cortex-debug",
+            "request": "launch",
+            "name": "cortex-debug launch",
+            "servertype": "jlink",
+            "interface": "swd",
+            "executable": ".\\out\\Release\\Wind-Hole.elf",
+            "runToMain": true,
+            "svdFile": ".\\pack\\Keil\\STM32F1xx_DFP.2.3.0\\SVD\\STM32F103xx.svd",
+            "device": "STM32F103C8"
+        },
+        {
+            "cwd": "${workspaceRoot}",
+            "type": "cortex-debug",
+            "request": "launch",
+            "name": "stlink",
+            "servertype": "openocd",
+            "executable": ".\\out\\Release\\Wind-Hole.elf",
+            "runToMain": true,
+            "configFiles": [
+                "interface/stlink.cfg",
+                "target/<target-name>.cfg"
+            ]
+        }
+    ]
+}

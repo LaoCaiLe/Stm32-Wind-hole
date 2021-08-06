@@ -1,0 +1,70 @@
+[2020-10-21 12:33:51]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\User\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:35:01]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\APP\key.c", exit code: 1
+   在 ARM_Builder_V6.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:35:15]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\User\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:35:28]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\User\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:35:51]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\APP\loop.c", exit code: 1
+   在 ARM_Builder_V6.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:39:25]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\APP\loop.c", exit code: 1
+   在 ARM_Builder_V6.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:39:53]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\SYSTEM\usart\usart.c", exit code: 1
+   在 ARM_Builder_V6.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:45:49]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:47:15]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:48:27]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\APP\pwm.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:48:39]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\APP\loop.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:48:59]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\APP\loop.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:49:22]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 12:49:32]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 15:12:28]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\User\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 15:12:36]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\User\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 15:12:43]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-21 16:15:42]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\APP\loop.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-17 15:42:34]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-24 15:20:18]	compilation failed at : "h:\STM32\STM32F103C8T6最小系统版\Wind-Hole\src\APP\loop.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-11-26 15:21:30]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
