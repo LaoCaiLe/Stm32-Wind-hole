@@ -13,8 +13,6 @@
 #include "stm32f10x.h"
 #include "sys.h"
 #include "SysTick.h"
-// #include "VL53L0.h"
-// #include "VL53L0iic.h"
 #include "oled.h"
 #include "led.h"
 #include "PidControl.h"
@@ -24,8 +22,6 @@
 #include "loop.h"
 #include "sys_time.h"
 #include "key.h"
-// #include "input.h"
-// #include "SR05.h"
 
 extern PidObject PidDistance;
 
